@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://almanya-danismanlik.vercel.app/sitemap.xml
